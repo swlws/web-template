@@ -19,6 +19,9 @@ pnpm add @vitejs/plugin-legacy -D
 
 # 打包压缩时需要
 pnpm add terser -D
+
+# 格式化
+pnpm add @typescript-eslint/eslint-plugin @typescript-eslint/parser eslint eslint-config-prettier eslint-plugin-prettier -D
 ```
 
 # 问题
